@@ -1,0 +1,9 @@
+D:\Part Projects\GL\GL.Library\GL.Library.Repository\bin\Debug\netstandard2.0\GL.Library.Repository.deps.json
+D:\Part Projects\GL\GL.Library\GL.Library.Repository\bin\Debug\netstandard2.0\GL.Library.Repository.dll
+D:\Part Projects\GL\GL.Library\GL.Library.Repository\obj\Debug\netstandard2.0\GL.Library.Repository.csprojAssemblyReference.cache
+D:\Part Projects\GL\GL.Library\GL.Library.Repository\obj\Debug\netstandard2.0\GL.Library.Repository.AssemblyInfoInputs.cache
+D:\Part Projects\GL\GL.Library\GL.Library.Repository\obj\Debug\netstandard2.0\GL.Library.Repository.AssemblyInfo.cs
+D:\Part Projects\GL\GL.Library\GL.Library.Repository\obj\Debug\netstandard2.0\GL.Library.Repository.csproj.CoreCompileInputs.cache
+D:\Part Projects\GL\GL.Library\GL.Library.Repository\bin\Debug\netstandard2.0\GL.Library.Repository.pdb
+D:\Part Projects\GL\GL.Library\GL.Library.Repository\obj\Debug\netstandard2.0\GL.Library.Repository.dll
+D:\Part Projects\GL\GL.Library\GL.Library.Repository\obj\Debug\netstandard2.0\GL.Library.Repository.pdb

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "HF8yoVbPUrEaD2wZ0y6LfiKqXL5N59uX982/rKc5bTI68sGFNFTZcLBjs2D6aXcxhof2EPzm0DLCsXjJ+iHR6g==",
+  "success": true,
+  "projectFilePath": "D:\\Part Projects\\GL\\GL.Library\\GL.Library.Repository\\GL.Library.Repository.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shree\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Shree\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Shree\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
